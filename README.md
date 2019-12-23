@@ -26,6 +26,6 @@ as well as the relationships between the words.
 Fortunately, statistical models work amazingly well for NLP problems. For our case, we have used Bayes Nets
 of different configurations viz. a) Simplified, b) Hidden Markov Model and c) Complex Markov Chain Monte Carlo
 
-![Figure](images/Bayes_net_configs.png)
+Figure in image:- Bayes_net_configs.png
 
 First para, explaining the background taken from a coding assignment by Prof David Crandall from his course B551.
